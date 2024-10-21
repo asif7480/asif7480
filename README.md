@@ -1,4 +1,3 @@
-## 👋 Hi there! I’m Asif Ahmed Khan
 ## 🚀 About Me
 I am specialize in building dynamic, high-performance web applications using the MERN stack (MongoDB, Express.js, React, and Node.js). With a passion for creating seamless user experiences and efficient back-end solutions, I thrive on transforming complex ideas into elegant code.
 
